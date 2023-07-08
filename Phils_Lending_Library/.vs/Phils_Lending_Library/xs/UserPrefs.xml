@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{5C4CC13A-04E1-4CC0-9410-308A89AED9A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library.cs">
+    <Files>
+      <File FileName="Program.cs" Line="59" Column="1" />
+      <File FileName="Book.cs" Line="14" Column="27" />
+      <File FileName="Library.cs" Line="59" Column="10" />
+      <File FileName="Backpack.cs" Line="43" Column="1" />
+      <File FileName="../LibraryTests/UnitTest1.cs" Line="95" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phils_Lending_Library" expanded="True">
+            <Node name="LibraryTests" expanded="True" />
+            <Node name="Phils_Lending_Library" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Library.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Phils_Lending_Library" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Phils__Lending__Library PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

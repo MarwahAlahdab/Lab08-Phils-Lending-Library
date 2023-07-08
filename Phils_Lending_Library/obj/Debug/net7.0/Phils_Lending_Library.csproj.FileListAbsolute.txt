@@ -1,0 +1,15 @@
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/bin/Debug/net7.0/Phils_Lending_Library
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/bin/Debug/net7.0/Phils_Lending_Library.deps.json
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/bin/Debug/net7.0/Phils_Lending_Library.runtimeconfig.json
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/bin/Debug/net7.0/Phils_Lending_Library.dll
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/bin/Debug/net7.0/Phils_Lending_Library.pdb
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.csproj.AssemblyReference.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.AssemblyInfoInputs.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.AssemblyInfo.cs
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.csproj.CoreCompileInputs.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.dll
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/refint/Phils_Lending_Library.dll
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.pdb
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/Phils_Lending_Library.genruntimeconfig.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab08-Phils-Lending-Library/Phils_Lending_Library/obj/Debug/net7.0/ref/Phils_Lending_Library.dll
